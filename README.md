@@ -1,4 +1,5 @@
 # Reactjs Expense Tracker
+<<<<<<< HEAD
 
 ReactJS Expense Tracker is a frontend application built with ReactJS to track daily expenses and manage personal finances efficiently.
 
@@ -23,3 +24,8 @@ Follow these steps to set up the project on your local machine:
 Once the dependencies are installed, you can start the application with the following command:
 ```bash
 npm start
+=======
+ReactJS Expense Tracker is a frontend application built with ReactJS to track daily expenses and manage personal finances efficiently.
+
+![Example ](src/assets/logo.png)
+>>>>>>> f0b52f46133cb327a93d753c8a1fce84da40491f
